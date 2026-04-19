@@ -1,3 +1,5 @@
+from py_compile import main
+
 from pybricks.hubs import PrimeHub
 from pybricks.tools import wait
 from pybricks.parameters import Icon,Port, Direction
@@ -11,3 +13,4 @@ drivebase.use_gyro(True)
 drivebase.settings(977, 400, 977, 100)
 drivebase.straight(400, wait=True)
 drivebase.arc(-160,angle=90, wait=True)
+
