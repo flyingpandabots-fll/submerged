@@ -14,12 +14,21 @@ drive_base.use_gyro(True)
 drive_base.settings(700, 700, 700,700) 
 
 # Move forward 40 cm (400 mm)
-drive_base.straight(-150)
-drive_base.arc(-300, -91)
+#drive_base.straight(100)
+#drive_base.arc(-300, 91)
+#drive_base.straight(200)
 
 # Move backward 40 cm (400 mm)
-drive_base.settings(300, 300, 300, 300)
-drive_base.straight(-260)
-drive_base.straight(320)
-drive_base.arc(-300,120)
+drive_base.straight(-170)
+drive_base.arc(-300, -91)
+drive_base.straight(-140)
+
+#back to coral
+drive_base.straight(50)
+drive_base.arc(600,37)
+
+#drive_base.settings(100, 100, 100, 100)
+#drive_base.straight(-260)
+#drive_base.straight(320)
+#rive_base.arc(-300,120)
 
