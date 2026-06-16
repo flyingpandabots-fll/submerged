@@ -1,10 +1,10 @@
 We have 4 team members on our team. Their names are intentionally mispelt for a git exercise.
-Vedhika
+Vedika
 Misika
 Sreyan
 Vhaan
 
-Vedhika likes to do gymnastics.
+Vedika likes to do gymnastics.
 Misika does gymnastics as well.
 Sreyan loves gardening.
 Vhaan loves to play minecraft.
